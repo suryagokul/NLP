@@ -1,0 +1,43 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Dec 25 11:08:18 2020
+
+@author: SURYA
+"""
+
+To clear the console 
+
+        1) Goto Console press ctrl+L 
+
+To clear the variables in variable explorer for each file
+        
+        1)Goto Run and click configuration per file 
+
+        2) select Remove all variables before execution.
+
+        3)click ok
+            
+
+To run selected line 
+
+        1) Select the line which you want to run
+
+        2)Click Run selection or current line in top 10th icon.
+
+To change the theme 
+
+
+        1)Goto Tools 
+
+        2)click preferences
+        
+        3)Goto Appearence and change syntax highliting theme.
+
+To change Keyboard shortcuts
+
+         1)Goto Tools 
+
+         2)click preferences
+        
+         3)click keyboard shortcuts and change it.
+
